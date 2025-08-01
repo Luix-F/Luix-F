@@ -20,7 +20,7 @@
 - My name is Luiz Fernando <div style="display: inline_block" >
 - <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="25" height="15"> I’m Brazilian </div>
 - 🌱 I’m currently learning Intel-oneAPI
-- 📕 I have basic English
+- 📕 I have intermediate English
 - 🎯 Learning French
 - ⚡ Fun fact: I'm creating my own AI assistant
   #
